@@ -1,0 +1,28 @@
+{
+    "name": "beer-2ls",
+    "version": "0.0.1",
+    "description": "une appli web d'outils pour le brassage de biere",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rahil-f/beer-2ls.git"
+    },
+    "keywords": [
+        "Node.js",
+        "API",
+        "TypeScript"
+    ],
+    "author": "Félix Rahil",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/rahil-f/beer-2ls/issues"
+    },
+    "homepage": "https://github.com/rahil-f/beer-2ls#readme",
+    "engines": {
+        "node": ">=14.18.1 <=16.13"
+    }
+}
